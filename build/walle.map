@@ -1,0 +1,391 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+                              /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+/Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+                              /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+                              /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+/Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+                              /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x7c /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+ .ARM.extab.text.__NOP
+                0x0000000000000000        0x0 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+ .ARM.extab.text._Z5delaym
+                0x0000000000000000        0x0 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+ .ARM.extab.text.main
+                0x0000000000000000        0x0 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+ .text          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x48 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .rodata        0x0000000000000000       0x24 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000100000 xr
+RAM              0x0000000020000000 0x0000000000018000 xrw
+MEMORY_B1        0x0000000060000000 0x0000000000000000 xr
+MEMORY_ARRAY     0x0000000020002000 0x0000000000000020 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+LOAD CMakeFiles/walle.elf.dir/src/init_it.c.obj
+LOAD CMakeFiles/walle.elf.dir/src/main.cpp.obj
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++_nano.a
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libm.a
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+START GROUP
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x0000000020018000                _estack = 0x20018000
+                0x0000000000000000                _Min_Heap_Size = 0x0
+                0x0000000000000080                _Min_Stack_Size = 0x80
+
+.isr_vector     0x0000000008000000       0x40
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000       0x40 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x0000000008000000                _vectors
+                0x0000000008000040                . = ALIGN (0x4)
+
+.text           0x0000000008000040      0x12c
+                0x0000000008000040                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000040       0x40 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(.text*)
+ .text.Reset_Handler
+                0x0000000008000080       0x40 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x0000000008000080                Reset_Handler
+ .text.NMI_Handler
+                0x00000000080000c0        0x2 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x00000000080000c0                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080000c2        0x2 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x00000000080000c2                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000000080000c4        0x2 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x00000000080000c4                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000000080000c6        0x2 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x00000000080000c6                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000000080000c8        0x2 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x00000000080000c8                UsageFault_Handler
+ .text.SVC_Handler
+                0x00000000080000ca        0x2 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x00000000080000ca                SVC_Handler
+ .text.DebugMon_Handler
+                0x00000000080000cc        0x2 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x00000000080000cc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000000080000ce        0x2 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x00000000080000ce                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000000080000d0        0x2 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                0x00000000080000d0                SysTick_Handler
+ .text.__NOP    0x00000000080000d2        0xe CMakeFiles/walle.elf.dir/src/main.cpp.obj
+ .text._Z5delaym
+                0x00000000080000e0       0x30 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+                0x00000000080000e0                delay(unsigned long)
+ .text.main     0x0000000008000110       0x44 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+                0x0000000008000110                main
+ *(.rodata)
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x0000000008000154        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008000154        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008000154        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0000000008000154        0x4 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x0000000008000154                _init
+ .init          0x0000000008000158        0x8 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000008000160        0x4 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x0000000008000160                _fini
+ .fini          0x0000000008000164        0x8 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x000000000800016c                . = ALIGN (0x4)
+                0x000000000800016c                _etext = .
+
+.vfp11_veneer   0x000000000800016c        0x0
+ .vfp11_veneer  0x000000000800016c        0x0 linker stubs
+
+.v4_bx          0x000000000800016c        0x0
+ .v4_bx         0x000000000800016c        0x0 linker stubs
+
+.iplt           0x000000000800016c        0x0
+ .iplt          0x000000000800016c        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x000000000800016c        0x8
+                0x000000000800016c                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx.text.__NOP
+                0x000000000800016c        0x8 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+ .ARM.exidx.text._Z5delaym
+                0x0000000008000174        0x0 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.main
+                0x0000000008000174        0x0 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+                                          0x8 (size before relaxing)
+                0x0000000008000174                __exidx_end = .
+
+.rel.dyn        0x0000000008000174        0x0
+ .rel.iplt      0x0000000008000174        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.preinit_array  0x0000000008000174        0x0
+                0x0000000008000174                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008000174                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000008000174        0x4
+                0x0000000008000174                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008000174        0x4 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000008000178                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000008000178        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ .fini_array    0x0000000008000178        0x4 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x000000000800017c                _sidata = .
+
+.data           0x0000000020000000        0x0 load address 0x000000000800017c
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _edata = .
+
+.igot.plt       0x0000000020000000        0x0
+ .igot.plt      0x0000000020000000        0x0 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000020000000                . = ALIGN (0x4)
+
+.bss            0x0000000020000000       0x1c
+                0x0000000020000000                _sbss = .
+                0x0000000020000000                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000000       0x1c /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+                0x000000002000001c                . = ALIGN (0x4)
+                0x000000002000001c                _ebss = .
+                0x000000002000001c                __bss_end__ = _ebss
+                [!provide]                        PROVIDE (end = _ebss)
+                [!provide]                        PROVIDE (_end = _ebss)
+
+._user_heap_stack
+                0x000000002000001c       0x80
+                0x000000002000001c                . = ALIGN (0x4)
+                0x000000002000001c                . = (. + _Min_Heap_Size)
+                0x000000002000009c                . = (. + _Min_Stack_Size)
+ *fill*         0x000000002000001c       0x80 
+                0x000000002000009c                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x2d CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .ARM.attributes
+                0x0000000000000077       0x2d CMakeFiles/walle.elf.dir/src/main.cpp.obj
+ .ARM.attributes
+                0x00000000000000a4       0x1d /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+
+.ROarraySection
+ *(.ROarraySection)
+OUTPUT(walle.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libm.a
+LOAD /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+
+.debug_info     0x0000000000000000      0x38c
+ .debug_info    0x0000000000000000      0x174 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .debug_info    0x0000000000000174      0x218 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+
+.debug_abbrev   0x0000000000000000      0x1a9
+ .debug_abbrev  0x0000000000000000       0xb0 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .debug_abbrev  0x00000000000000b0       0xf9 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+
+.debug_aranges  0x0000000000000000       0x98
+ .debug_aranges
+                0x0000000000000000       0x68 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .debug_aranges
+                0x0000000000000068       0x30 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+
+.debug_ranges   0x0000000000000000       0x78
+ .debug_ranges  0x0000000000000000       0x58 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .debug_ranges  0x0000000000000058       0x20 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+
+.debug_line     0x0000000000000000      0x304
+ .debug_line    0x0000000000000000      0x168 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .debug_line    0x0000000000000168      0x19c CMakeFiles/walle.elf.dir/src/main.cpp.obj
+
+.debug_str      0x0000000000000000      0x369
+ .debug_str     0x0000000000000000      0x1ce CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                                        0x1db (size before relaxing)
+ .debug_str     0x00000000000001ce      0x19b CMakeFiles/walle.elf.dir/src/main.cpp.obj
+                                        0x21d (size before relaxing)
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a CMakeFiles/walle.elf.dir/src/main.cpp.obj
+
+.debug_frame    0x0000000000000000      0x120
+ .debug_frame   0x0000000000000000       0xb0 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+ .debug_frame   0x00000000000000b0       0x70 CMakeFiles/walle.elf.dir/src/main.cpp.obj
+
+Cross Reference Table
+
+Symbol                                            File
+BusFault_Handler                                  CMakeFiles/walle.elf.dir/src/init_it.c.obj
+DebugMon_Handler                                  CMakeFiles/walle.elf.dir/src/init_it.c.obj
+HardFault_Handler                                 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+MemManage_Handler                                 CMakeFiles/walle.elf.dir/src/init_it.c.obj
+NMI_Handler                                       CMakeFiles/walle.elf.dir/src/init_it.c.obj
+PendSV_Handler                                    CMakeFiles/walle.elf.dir/src/init_it.c.obj
+Reset_Handler                                     CMakeFiles/walle.elf.dir/src/init_it.c.obj
+SVC_Handler                                       CMakeFiles/walle.elf.dir/src/init_it.c.obj
+SysTick_Handler                                   CMakeFiles/walle.elf.dir/src/init_it.c.obj
+UsageFault_Handler                                CMakeFiles/walle.elf.dir/src/init_it.c.obj
+__bss_end__                                       /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__bss_start__                                     /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__call_exitprocs                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+__deregister_frame_info                           /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+__dso_handle                                      /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+__init_array_end                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+__init_array_start                                /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__libc_init_array                                 /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+                                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__preinit_array_end                               /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+__preinit_array_start                             /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+__register_frame_info                             /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+__sf_fake_stderr                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+__stack                                           /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_ebss                                             CMakeFiles/walle.elf.dir/src/init_it.c.obj
+_edata                                            CMakeFiles/walle.elf.dir/src/init_it.c.obj
+_estack                                           CMakeFiles/walle.elf.dir/src/init_it.c.obj
+_exit                                             /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+_fini                                             /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+_global_impure_ptr                                /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+                                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+_init                                             /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_sbss                                             CMakeFiles/walle.elf.dir/src/init_it.c.obj
+_sdata                                            CMakeFiles/walle.elf.dir/src/init_it.c.obj
+_sidata                                           CMakeFiles/walle.elf.dir/src/init_it.c.obj
+_stack_init                                       /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_start                                            /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_vectors                                          CMakeFiles/walle.elf.dir/src/init_it.c.obj
+atexit                                            /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+delay(unsigned long)                              CMakeFiles/walle.elf.dir/src/main.cpp.obj
+exit                                              /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+                                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+hardware_init_hook                                /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+main                                              CMakeFiles/walle.elf.dir/src/main.cpp.obj
+                                                  CMakeFiles/walle.elf.dir/src/init_it.c.obj
+                                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+memset                                            /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+                                                  /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+software_init_hook                                /Applications/ARM/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
