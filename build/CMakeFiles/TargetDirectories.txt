@@ -1,3 +1,0 @@
-/home/vlad/workspace/stm32/walle/build/CMakeFiles/rebuild_cache.dir
-/home/vlad/workspace/stm32/walle/build/CMakeFiles/edit_cache.dir
-/home/vlad/workspace/stm32/walle/build/CMakeFiles/walle.elf.dir
