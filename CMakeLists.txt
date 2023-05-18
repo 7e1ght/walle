@@ -43,6 +43,7 @@ target_link_options(${EXECUTABLE} PRIVATE
     -lnosys
     -Wl,-Map=${PROJECT_NAME}.map,--cref
     -Wl,--gc-sections
+    -Wl,--unresolved-symbols=ignore-in-object-files
 )
 
 # Print executable size

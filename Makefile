@@ -5,12 +5,13 @@
 NAME = walle
 
 build: 
-	if [ -d build ]
-	then 
-		cd build && make 
-	else 
-		mkdir build && cd build && cmake -DCMAKE_TOOLCHAIN_FILE=toolchain.cmake .. && make
-	fi
+	rm -r build
+	# if [ -d build ]
+	# then 
+	# 	cd build && make 
+	# else 
+	mkdir build && cd build && cmake -DCMAKE_TOOLCHAIN_FILE=toolchain.cmake .. && make
+	# fi
 
 bin: build
 	if [ ! -d build/bin ] 
