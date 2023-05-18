@@ -1,2 +1,3 @@
 build/
 .vscode/.cortex*
+.DS_Store
