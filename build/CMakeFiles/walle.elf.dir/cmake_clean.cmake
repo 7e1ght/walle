@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/walle.elf.dir/src/init_it.c.obj"
-  "CMakeFiles/walle.elf.dir/src/init_it.c.obj.d"
   "CMakeFiles/walle.elf.dir/src/main.cpp.obj"
-  "CMakeFiles/walle.elf.dir/src/main.cpp.obj.d"
   "walle.elf"
   "walle.elf.pdb"
 )

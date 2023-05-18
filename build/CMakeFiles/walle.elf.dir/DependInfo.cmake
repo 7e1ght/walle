@@ -1,15 +1,26 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  "CXX"
   )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/vlad/workspace/stm32/walle/src/init_it.c" "/home/vlad/workspace/stm32/walle/build/CMakeFiles/walle.elf.dir/src/init_it.c.obj"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
 
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/vlad-mac/workspace/stm32/walle/src/init_it.c" "CMakeFiles/walle.elf.dir/src/init_it.c.obj" "gcc" "CMakeFiles/walle.elf.dir/src/init_it.c.obj.d"
-  "/Users/vlad-mac/workspace/stm32/walle/src/main.cpp" "CMakeFiles/walle.elf.dir/src/main.cpp.obj" "gcc" "CMakeFiles/walle.elf.dir/src/main.cpp.obj.d"
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../cmsis"
+  )
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/vlad/workspace/stm32/walle/src/main.cpp" "/home/vlad/workspace/stm32/walle/build/CMakeFiles/walle.elf.dir/src/main.cpp.obj"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../cmsis"
   )
 
 # Targets to which this target links.
