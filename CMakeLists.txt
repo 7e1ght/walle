@@ -11,14 +11,19 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS ON)
 
 set(EXECUTABLE ${PROJECT_NAME}.elf)
-set(LINKER_SCRIPT_PATH "${CMAKE_SOURCE_DIR}/cmsis/startup/linker/stm32f10x_flash_ROArray.ld")
+set(STARTUP_INIT_PATH "${CMAKE_SOURCE_DIR}/cmsis/startup/startup.s")
+set(LINKER_SCRIPT_PATH "${CMAKE_SOURCE_DIR}/cmsis/startup/linker/STM32F103C8TX_FLASH.ld")
 
 file(GLOB SOURCE_FILES CONFIGURE_DEPENDS "src/*.c" "src/*.cpp")
 
-add_executable(${EXECUTABLE} ${SOURCE_FILES})
+add_executable(${EXECUTABLE} ${SOURCE_FILES} ${STARTUP_INIT_PATH})
 
 target_include_directories(${EXECUTABLE} PRIVATE
     cmsis/
+)
+
+target_compile_definitions(${EXECUTABLE} PRIVATE 
+    ${BUILD}
 )
 
 target_compile_options(${EXECUTABLE} PRIVATE

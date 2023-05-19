@@ -8,7 +8,6 @@ void delay(uint32_t msec)
     }
 }
 
-
 int main() 
 {
     RCC->APB2ENR |= RCC_APB2ENR_IOPAEN;
@@ -18,8 +17,8 @@ int main()
 
     while(1)
     {
-        // GPIOA->BSRR = GPIO_BSRR_BS10;
-        // delay(1000);
+        GPIOA->BSRR = GPIO_BSRR_BS10;
+        delay(1000);
 
         GPIOA->BSRR = GPIO_BSRR_BR10;
         delay(1000);

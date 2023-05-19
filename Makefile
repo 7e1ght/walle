@@ -3,15 +3,11 @@
 .ONESHELL: build bin
 
 NAME = walle
+BUILD_TYPE = DEBUG
 
 build: 
 	rm -r build
-	# if [ -d build ]
-	# then 
-	# 	cd build && make 
-	# else 
-	mkdir build && cd build && cmake -DCMAKE_TOOLCHAIN_FILE=toolchain.cmake .. && make
-	# fi
+	mkdir build && cd build && cmake -DCMAKE_TOOLCHAIN_FILE=toolchain.cmake -D BUILD=${BUILD_TYPE} .. && make
 
 bin: build
 	if [ ! -d build/bin ] 
