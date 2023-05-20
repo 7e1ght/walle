@@ -1,18 +1,19 @@
 #include "stm32f10x.h"
 
-volatile uint8_t tick = 0;
-volatile uint8_t delay_time = 0;
+volatile uint32_t tick = 0;
+volatile uint32_t delay_time = 0;
 
 void initSysTick()
 {
-    SysTick->CTRL &= 0x00; // clock is disable
+    SysTick->CTRL &= 0x00; // clock is disabled
+
     SysTick->CTRL |= SysTick_CTRL_TICKINT;
     SysTick->CTRL &= ~SysTick_CTRL_CLKSOURCE;
 
     SysTick->LOAD &= ~SysTick_LOAD_RELOAD_Msk; 
     SysTick->LOAD |= (71999 << SysTick_LOAD_RELOAD_Pos); 
 
-    SysTick->VAL &= (0x00 << SysTick_VAL_CURRENT_Pos);
+    SysTick->VAL &= (71999 << SysTick_VAL_CURRENT_Pos);
 
     SysTick->CTRL |= SysTick_CTRL_ENABLE;
 }
@@ -23,12 +24,12 @@ void SysTick_Handler()
     if(delay_time) delay_time--;
 }
 
-void delay(uint8_t ms)
+void delay(uint32_t ms)
 {
     delay_time = ms;
     while (delay_time != 0);
 }
-
+ 
 void initRCC() 
 {
     RCC->CR &= 0x00;
@@ -67,6 +68,8 @@ void initRCC()
 
 int main() 
 {
+    SCB->VTOR = FLASH_BASE;
+
     initRCC();
     initSysTick();
 
@@ -76,10 +79,10 @@ int main()
 
     while (1)
     {
-        GPIOC->BSRR |= GPIO_BSRR_BS13;
+        GPIOC->BSRR |= GPIO_BSRR_BR13;
         delay(1000);
 
-        GPIOC->BSRR |= GPIO_BSRR_BR13;
+        GPIOC->BSRR |= GPIO_BSRR_BS13;
         delay(1000);
     }
 
